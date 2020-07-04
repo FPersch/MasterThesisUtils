@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: DataTypeConverter
+Bundle-SymbolicName: DataTypeConverter
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: DataTypeConverter.jar,
+ Frederick/.p2/pool/plugins/org.eclipse.emf.ecore.xmi_2.16.0.v20190528-0725.jar
+Export-Package: org.palladiosimulator.DataTypeConverter.DataTypeConverter
+Require-Bundle: org.palladiosimulator.pcm.resources;bundle-version="4.2.0"
